@@ -16,12 +16,22 @@ fields:
 - name: epub_price
   type: text
   config:
-    required: false
+    required: true
   label: epub price
 - name: paperback_price
   type: text
   config:
-    required: false
+    required: true
   label: paperback price
+- name: amazon_url
+  type: text
+  config:
+    required: true
+  label: amazon url
+- name: apple_books_url
+  type: text
+  config:
+    required: true
+  label: Apple Books url
 pages:
 - index.md

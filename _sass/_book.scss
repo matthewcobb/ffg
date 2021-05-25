@@ -29,17 +29,19 @@
       font-weight: 700;
       margin-top: 90px;
       text-transform: uppercase;
+      margin-bottom: 4px;
       @include bp(md) {
         margin-top: 120px;
+        margin-bottom: 8px;
         font-size: 32px;
         line-height: 38px;
       }
     }
     p {
-      font-size: 14px;
+      font-size: 12px;
       line-height: 16px;
       font-weight: 400;
-      @include bp(sm) {
+      @include bp(md) {
         font-size: 16px;
       }
     }

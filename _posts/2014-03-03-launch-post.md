@@ -1,5 +1,5 @@
 ---
-title: Learn more about the book
+title: "\U0001F4DA Learn more about the book"
 date: 2021-05-25T13:00:00.000+00:00
 layout: post
 featured_image: "/ffg/uploads/ffg-3d.jpg"

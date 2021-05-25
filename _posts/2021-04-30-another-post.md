@@ -2,7 +2,7 @@
 title: "\U0001F389 Attend the Q&A Launch Event on Jun 1st"
 date: 2021-05-25 13:10:00 +0000
 layout: post
-featured_image: ''
+featured_image:
 
 ---
 Join us on June 1st at 2:00pm BST for a free questions and answers session as we unpack the new ideas and strategies included in this second edition of the book. 👉🏽 [**Book your tickets here!**](https://sdca.mp/Fieldguide_21) 👈🏽

@@ -1,6 +1,6 @@
 ---
 title: "\U0001F389 Attend the Q&A Launch Event on Jun 1st"
-date: 2021-05-25 16:00:00 +0000
+date: 2021-05-25 13:10:00 +0000
 layout: post
 featured_image: ''
 

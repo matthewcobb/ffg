@@ -1,6 +1,6 @@
 ---
-title: Launch post
-date: 2014-03-03T00:00:00.000+00:00
+title: "\U0001F9D0 Learn more about the book"
+date: 2021-05-01 13:00:00 +0000
 layout: post
 featured_image: "/ffg/uploads/ffg-widescreen-background.jpg"
 

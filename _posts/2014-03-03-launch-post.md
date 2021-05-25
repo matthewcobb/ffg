@@ -1,6 +1,6 @@
 ---
 title: Learn more about the book
-date: 2021-05-25 13:00:00 +0000
+date: 2021-05-25T13:00:00.000+00:00
 layout: post
 featured_image: "/ffg/uploads/ffg-widescreen-background.jpg"
 
@@ -39,7 +39,7 @@ In an effort to make as much of the proceeds from the book go to Resurgo directl
 
 ***
 
-# Attend the Q&A Launch Event on Jun 1st
+## Attend the Q&A Launch Event on Jun 1st
 
 Join us on June 1st at 2:00pm BST for a free questions and answers session as we unpack the new ideas and strategies included in this second edition of the book. 👉🏽 [**Book your tickets here! **](https://sdca.mp/Fieldguide_21)👈🏽
 
@@ -51,7 +51,7 @@ Alongside me, our guests will include:
 
 ***
 
-# Sponsors
+## Sponsors
 
 The kind sponsors and supporters for versions 1 & 2 of the book are:
 
@@ -62,7 +62,7 @@ the innovation economy._**
 
 ***
 
-# Version 1.0 — Where it Started
+## Version 1.0 — Where it Started
 
 The original version of the book was published by [Reedsy (the best online publishing platform)](https://reedsy.com/)in 2015 thanks to the help of Emmanuel Nataf, Matt Cobb, Ricardo Fayet, and Rebecca Heyman.
 

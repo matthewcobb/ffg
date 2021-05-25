@@ -59,7 +59,7 @@ a {
   line-height: inherit;
   text-decoration: none;
   &:hover {
-    text-decoration: underline;
+    color: $purple-light;
   }
 }
 
@@ -88,11 +88,13 @@ a {
 article {
   .featured-image {
     border-radius: $_1em;
-    margin-top: $_2em;
+    display: inline;
   }
   img {
     max-width: 100%;
     border-radius: 4px;
+    margin: 0 auto;
+    display: block;
   }
   p, ul, ol, blockquote {
     font-size: 16px;
@@ -103,6 +105,9 @@ article {
     }
     a {
       text-decoration: underline;
+      &:hover {
+        color: $purple-fade;
+      }
     }
   }
   hr {

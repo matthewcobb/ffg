@@ -54,16 +54,20 @@ header {
   }
   &.hero {
     background: url("images/header.svg") $purple-dark no-repeat top center;
-    background-size: contain;
+    background-size: 900px;
     color: $white-base;
 
-    @include bp(lg){
+    @include bp(sm){
+      background-size: 400px;
+    }
+
+    @include bp(md){
       background-size: 1240px;
     }
   }
 
   &.row-dark {
-    background: $purple-base;
+    background: $purple-dark;
     color: $white-base;
     background-size: cover;
     .content {

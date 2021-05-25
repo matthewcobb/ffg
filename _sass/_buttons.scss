@@ -50,7 +50,7 @@
 .btn-green-faint {@include makebutton($green-faint, $green-fade, $black-base);}
 .btn-green-fade  {@include makebutton($green-fade, $green-faint, $black-base);}
 .btn-green-dark  {@include makebutton($green-medium, $green-dark, $white-base);}
-.btn-white       {@include makebutton($white-base, $white-base, $black-base);}
+.btn-white       {@include makebutton($white-base, $grey-fade, $black-base);}
 .btn-blue-fade   {@include makebutton($blue-fade, $blue-fade-hover, $black-base);}
 .btn-blue        {@include makebutton($blue-base, $blue-dark, $white-base);}
 .btn-turq-dark   {@include makebutton($turq-dark, $turq-heavy, $white-base);}
@@ -98,9 +98,14 @@
     box-sizing: border-box;
     background: $orange-base;
     padding: 12px;
+    text-align: center;
     border-top-left-radius: 6px;
     border-bottom-left-radius: 6px;
     color: $orange-dark;
+    width: 100%;
+    @include bp(sm) {
+      width: auto;
+    }
     &:hover {
       background: $orange-fade;
     }
@@ -108,12 +113,15 @@
   .second {
     color: $orange-dark;
     box-sizing: border-box;
-    padding: 12px;
+    padding: 12px $_3em;
     background: $orange-medium;
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
     &:hover {
       background: $orange-fade;
+    }
+    @include bp(sm) {
+      padding: 12px;
     }
   }
 }

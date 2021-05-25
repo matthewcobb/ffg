@@ -11,8 +11,8 @@ description: A startup founder's handbook.
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 disqus:
 google_analytics:
-url:
-baseurl: ""
+url: https://matthewcobb.github.io/
+baseurl: "/ffg"
 permalink: /:title/
 version: v1.2.0
 kramdown:

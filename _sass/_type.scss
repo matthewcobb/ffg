@@ -11,8 +11,6 @@ h1, h2, h3, h4, h5 {
   line-height: 1.25em;
   margin: 0;
   padding: 0;
-  text-transform: uppercase;
-  letter-spacing: 1px;
   margin-bottom: $_1em;
 }
 
@@ -63,12 +61,12 @@ a {
   text-align: center;
 }
 
-.text-grey {
-  color: $grey-medium;
+.text-light {
+  opacity: 0.6;
 }
 
 .text-cta {
-  color: #e9b472;
+  color: $purple-light;
 }
 
 .text-center-below-md {
@@ -89,6 +87,9 @@ article {
     font-size: 20px;
     line-height: 1.8em;
     font-family: 'Lora', serif;
+    a {
+      text-decoration: underline;
+    }
   }
   hr {
     margin: $_5em 0;
@@ -98,8 +99,5 @@ article {
   }
   h1, h2 {
     margin-bottom: $_2em;
-  }
-  a {
-    text-decoration: underline;
   }
 }

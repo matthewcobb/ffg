@@ -17,7 +17,7 @@
     <header class="hero">
       {% include nav.html %}
       <div class="content">
-        <div class="grid align-end gutter-xs-lg space-top-sm-xl">
+        <div class="grid align-end gutter-xs-xl space-top-sm-xl">
           <div class="cell-shrink">
             <div class="artwork">
               <div class="text">
@@ -30,38 +30,41 @@
               <img width="400" src="images/cover.jpg">
             </div>
           </div>
+
           <div class="cell">
             <div class="grid gutter-xs-lg no-response">
               <div class="cell-shrink">
-                EPUB &amp; Kindle
-                <h2 class="text-cta">$11.99</h2>
+                <span class="text-light">EPUB &amp; Kindle</span>
+                <h2>{{ page.epub_price }}</h2>
               </div>
               <div class="cell">
-                PAPERBACK
-                <h2>$17.99</h2>
+                <span class="text-light">PAPERBACK</span>
+                <h2>{{ page.paperback_price }}</h2>
               </div>
             </div>
 
-            <h3 class="space-top-xs-sm">Grab your copy now</h3>
-            <div class="grid gutter-xs-sm space-bottom-xs-sm">
-              <div class="cell">
-                <a href="" class="btn-white btn-full">Amazon</a>
-              </div>
-              <div class="cell">
-                <a href="" class="btn-red btn-full">Apple Books</a>
+            <h3 class="text-cta space-top-xs-xs">Available now</h3>
+            <p>{{ page.description }}</p>
+
+            <div class="grid gutter-xs-sm space-top-xs-md">
+              <div class="cell-shrink">
+                <a href="{{ page.amazon_url }}" target="_blank" class="btn-orange btn-sm btn-full">Buy on Amazon</a>
               </div>
               <div class="cell-shrink">
-                <a href="" class="btn-purple btn-full">Direct Donation</a>
+                <a href="{{ page.apple_books_url }}" target="_blank" class="btn-white btn-sm btn-full">Apple Books</a>
+              </div>
+              <div class="cell-shrink">
+                <a href="{{ page.donation_url }}" target="_blank" class="btn-purple btn-sm btn-full">Via Donation</a>
               </div>
             </div>
 
-            <div class="grid gutter-xs-md no-response align-middle">
+            <div class="grid gutter-xs-md no-response align-middle space-top-xs-md">
               <div class="cell-shrink">
                 <img width="200" class="img-avatar" src="images/avatar.jpg">
               </div>
               <div class="cell">
                 <p>
-                  <a href="#bio" class="underlined">Carlos Espinal</a>, parter @seedcamp
+                  <a href="#bio" class="underlined">Carlos Espinal</a>, Parter @seedcamp
                 </p>
               </div>
             </div>
@@ -76,23 +79,25 @@
         <div class="posts">
           {% for post in site.posts %}
             <article class="post space-bottom-xs-xxl">
-              <h1>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-              </h1>
-              <h4>Posted on {{ post.date | date: "%B %e, %Y" }}</h4>
-              <div class="entry space-top-xs-md">
+              <h2>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} →</a>
+              </h2>
+              <p class="text-light">Posted on {{ post.date | date: "%B %e, %Y" }}</p>
+              <div class="entry">
                 {{ post.excerpt }}
               </div>
-              <a href="{{ site.baseurl }}{{ post.url }}" class="btn-purple btn-full-mob">
+              <a href="{{ site.baseurl }}{{ post.url }}" class="btn-purple space-top-xs-sm">
                 Read post
               </a>
             </article>
           {% endfor %}
         </div>
       </div>
+      {% if content %}
       <div class="content">
         {{ content }}
       </div>
+      {% endif %}
     </section>
 
     {% include footer.html %}

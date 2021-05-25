@@ -21,16 +21,26 @@ p {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 28px;
   margin-bottom: $_2em;
+  @include bp(sm) {
+    font-size: 40px;
+  }
 }
 
 h2 {
-  font-size: 32px;
+  font-size: 24px;
+  @include bp(sm) {
+    font-size: 32px;
+  }
+
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 20px;
+  @include bp(sm) {
+    font-size: 24px;
+  }
   &:not(:first-child){
     margin-top: $_4em;
   }
@@ -82,11 +92,15 @@ article {
   }
   img {
     width: 100%;
+    border-radius: 4px;
   }
   p, ul, ol, blockquote {
-    font-size: 20px;
+    font-size: 16px;
     line-height: 1.8em;
     font-family: 'Lora', serif;
+    @include bp(sm) {
+      font-size:20px;
+    }
     a {
       text-decoration: underline;
     }

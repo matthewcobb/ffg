@@ -64,7 +64,11 @@ header {
 
   &.row-dark {
     background: $purple-dark;
+    @include bp(sm) {
+      background: url("images/header.jpg") $purple-dark no-repeat top center;
+    }
     color: $white-base;
+    background-size: cover;
     .content {
       padding: $_2em 0 $_4em;
     }

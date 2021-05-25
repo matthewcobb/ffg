@@ -8,13 +8,13 @@ layout: default
     <a href="{{ site.baseurl }}/">← Back to home page</a> – Posted on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% if page.featured_image != '''' %}
+  {% if page.featured_image %}
   <div class="featured-image">
     <img src="{{ page.featured_image }}" class="img-full" />
   </div>
   {% endif %}
 
-  <div class="entry space-top-xs-lg">
+  <div class="entry space-top-xs-md">
     {{ content }}
   </div>
 </article>

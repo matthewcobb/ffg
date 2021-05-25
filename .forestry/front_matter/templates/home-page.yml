@@ -5,12 +5,23 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: index
+  hidden: true
 - type: text
   name: title
   label: title
 - type: text
   name: description
   label: description
-- type: text
-  name: excerpt
-  label: excerpt
+- name: epub_price
+  type: text
+  config:
+    required: false
+  label: epub price
+- name: paperback_price
+  type: text
+  config:
+    required: false
+  label: paperback price
+pages:
+- index.md

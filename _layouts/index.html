@@ -17,7 +17,7 @@
     <header class="hero">
       {% include nav.html %}
       <div class="content">
-        <div class="grid align-end gutter-xs-xl space-top-sm-xl">
+        <div class="grid align-end gutter-xs-lg gutter-sm-xl space-top-sm-xl">
           <div class="cell-shrink">
             <div class="artwork">
               <div class="text">
@@ -27,7 +27,7 @@
                   Carlos Espinal
                 </p>
               </div>
-              <img width="400" src="images/cover.jpg">
+              <img width="1600" height="2560" src="{{ site.baseurl }}/images/cover.jpg">
             </div>
           </div>
 
@@ -35,11 +35,11 @@
             <div class="grid gutter-xs-lg no-response">
               <div class="cell-shrink">
                 <span class="text-light">EPUB &amp; Kindle</span>
-                <h2>{{ page.epub_price }}</h2>
+                <h2>{{ site.epub_price }}</h2>
               </div>
               <div class="cell">
                 <span class="text-light">PAPERBACK</span>
-                <h2>{{ page.paperback_price }}</h2>
+                <h2>{{ site.paperback_price }}</h2>
               </div>
             </div>
 
@@ -48,19 +48,19 @@
 
             <div class="grid gutter-xs-sm space-top-xs-md">
               <div class="cell-shrink">
-                <a href="{{ page.amazon_url }}" target="_blank" class="btn-orange btn-sm btn-full">Buy on Amazon</a>
+                <a href="{{ site.amazon_url }}" target="_blank" class="btn-orange btn-sm btn-full">Buy on Amazon</a>
               </div>
               <div class="cell-shrink">
-                <a href="{{ page.apple_books_url }}" target="_blank" class="btn-white btn-sm btn-full">Apple Books</a>
+                <a href="{{ site.apple_books_url }}" target="_blank" class="btn-white btn-sm btn-full">Apple Books</a>
               </div>
               <div class="cell-shrink">
-                <a href="{{ page.donation_url }}" target="_blank" class="btn-purple btn-sm btn-full">Via Donation</a>
+                <a href="{{ site.donation_url }}" target="_blank" class="btn-purple btn-sm btn-full">Via Donation</a>
               </div>
             </div>
 
             <div class="grid gutter-xs-md no-response align-middle space-top-xs-md">
               <div class="cell-shrink">
-                <img width="200" class="img-avatar" src="images/avatar.jpg">
+                <img width="40" height="40" class="img-avatar" src="{{ site.baseurl }}/images/avatar.jpg">
               </div>
               <div class="cell">
                 <p>

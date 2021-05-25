@@ -1,33 +1,61 @@
 <footer class="row-dark">
   <div class="content">
-    <h2>Get the book</h2>
-    <div class="grid gutter-xs-lg no-response">
+
+    <div class="grid align-middle gutter-xs-xl space-top-sm-xl">
       <div class="cell-shrink">
-        <span class="text-light">EPUB &amp; Kindle</span>
-        <h2>{{ page.epub_price }}</h2>
+        <div class="artwork">
+          <div class="text">
+            <h1>{{ site.name }}</h1>
+            <p>{{ site.description }}</p>
+            <p class="author">
+              Carlos Espinal
+            </p>
+          </div>
+          <img width="1600" height="2560" src="{{ site.baseurl }}/images/cover.jpg">
+        </div>
       </div>
       <div class="cell">
-        <span class="text-light">PAPERBACK</span>
-        <h2>{{ page.paperback_price }}</h2>
-      </div>
-    </div>
+        <h1>Get the book</h1>
+        <div class="grid gutter-xs-lg no-response">
+          <div class="cell-shrink">
+            <span class="text-light">EPUB &amp; Kindle</span>
+            <h2>{{ site.epub_price }}</h2>
+          </div>
+          <div class="cell">
+            <span class="text-light">PAPERBACK</span>
+            <h2>{{ site.paperback_price }}</h2>
+          </div>
+        </div>
 
-    <h3 class="text-cta space-top-xs-xs">Available now</h3>
-    <p>{{ page.description }}</p>
+        <h3 class="text-cta space-top-xs-xs">Available now</h3>
+        <p>{{ page.description }}</p>
 
-    <div class="grid gutter-xs-sm space-top-xs-md">
-      <div class="cell-shrink">
-        <a href="{{ page.amazon_url }}" target="_blank" class="btn-orange btn-sm btn-full">Buy on Amazon</a>
-      </div>
-      <div class="cell-shrink">
-        <a href="{{ page.apple_books_url }}" target="_blank" class="btn-white btn-sm btn-full">Apple Books</a>
-      </div>
-      <div class="cell-shrink">
-        <a href="{{ page.donation_url }}" target="_blank" class="btn-purple btn-sm btn-full">Via Donation</a>
+        <div class="grid gutter-xs-sm space-top-xs-md">
+          <div class="cell-shrink">
+            <a href="{{ site.amazon_url }}" target="_blank" class="btn-orange btn-sm btn-full">Buy on Amazon</a>
+          </div>
+          <div class="cell-shrink">
+            <a href="{{ site.apple_books_url }}" target="_blank" class="btn-white btn-sm btn-full">Apple Books</a>
+          </div>
+          <div class="cell-shrink">
+            <a href="{{ site.donation_url }}" target="_blank" class="btn-purple btn-sm btn-full">Via Donation</a>
+          </div>
+        </div>
+
+        <div class="grid gutter-xs-md no-response align-middle space-top-xs-md">
+          <div class="cell-shrink">
+            <img width="40" height="40" class="img-avatar" src="{{ site.baseurl }}/images/avatar.jpg">
+          </div>
+          <div class="cell">
+            <p>
+              <a href="#bio" class="underlined">Carlos Espinal</a>, Parter @seedcamp
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
-  <div class="content space-top-xs-lg">
+  <div class="content space-top-xs-xl">
     <div class="grid justify-between no-response align-middle">
       <div class="cell">
         Carlos Espinal - ©2021

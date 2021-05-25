@@ -1,5 +1,5 @@
 .artwork {
-  background: $blue-dark;
+  background: $purple-base;
   position: relative;
   max-width: 220px;
   margin: 0 auto;
@@ -57,5 +57,6 @@
   img {
     width: 100%;
     vertical-align: middle;
+    height: auto;
   }
 }

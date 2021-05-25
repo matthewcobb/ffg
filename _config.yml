@@ -19,8 +19,8 @@ paperback_price: $17.99
 amazon_url: https://amazon.com
 apple_books_url: https://apple.com
 donation_url: https://donate.com
-url: https://matthewcobb.github.io/
-baseurl: "/ffg"
+url:
+baseurl: ""
 permalink: /:title/
 version: v1.2.0
 kramdown:

@@ -1,6 +1,6 @@
 ---
 title: "\U0001F9D0 Learn more about the book"
-date: 2021-05-01 13:00:00 +0000
+date: 2021-05-01T13:00:00.000+00:00
 layout: post
 featured_image: "/ffg/uploads/ffg-widescreen-background.jpg"
 
@@ -13,7 +13,7 @@ Lastly, as part of this second edition, I’d like to shine a light on the work 
 
 _Note on the Second Edition: The first version of The Fundraising Field Guide was written and published via Reedsy in 2015 and has been used by many to help navigate their fund raise. However, a lot has evolved since then, so this updated version 2.0 has been written with new content, ideas, and strategies to help early-stage tech startup founders decipher and navigate the fundraising process._
 
-{% include scene-break.html %}
+***
 
 ## Get The Book — eBooks and Paperback
 
@@ -23,7 +23,7 @@ Here are the links to get the book:
 * [**Apple iBooks & other platforms (eg. Kobo)**](https://books2read.com/u/m2RyD7)
 * [**Direct Donation via JustGiving **](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3)(see below for more details)
 
-{% include scene-break.html %}
+***
 
 ## Donate & Download — Resurgo Spear
 
@@ -37,7 +37,7 @@ I’ve witnessed, first-hand, the transformative nature of the programme and the
 
 In an effort to make as much of the proceeds from the book go to Resurgo directly as possible, feel free to donate directly to them (suggested donation of £9.99 or as much more as you’d like) [**_via this JustGiving page_**](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3)**_. After your donation, you will receive a link from which you will be able to download the book._**
 
-{% include scene-break.html %}
+***
 
 # Attend the Q&A Launch Event on Jun 1st
 
@@ -49,7 +49,7 @@ Alongside me, our guests will include:
 * [Tom Wilson](https://www.linkedin.com/in/tomwilsonseedcamp/), Partner at Seedcamp
 * [Sia Houchangnia](https://www.linkedin.com/in/siahouchangnia/), Partner at Seedcamp
 
-{% include scene-break.html %}
+***
 
 # Sponsors
 
@@ -60,7 +60,7 @@ the innovation economy._**
 
 [**Seedrs**](https://www.seedrs.com/) — **_We are equity crowdfunding done properly._**
 
-{% include scene-break.html %}
+***
 
 # Version 1.0 — Where it Started
 

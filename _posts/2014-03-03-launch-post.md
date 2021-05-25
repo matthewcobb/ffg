@@ -21,7 +21,7 @@ Here are the links to get the book:
 
 * **Amazon Kindle & Print Editions:** [UK](https://www.amazon.co.uk/Fundraising-Field-Guide-Founders-Handbook-ebook/dp/B012CZT24U/ref=sr_1_1?dchild=1&keywords=fundraising+field+guide&qid=1621872506&sr=8-1) / [US](https://www.amazon.com/dp/1786130084/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1621872202&sr=8-3)
 * [**Apple iBooks & other platforms (eg. Kobo)**](https://books2read.com/u/m2RyD7)
-* [**Direct Donation via JustGiving **](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3)(see below for more details)
+* [**Direct Donation via JustGiving**](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3)(see below for more details)
 
 ***
 

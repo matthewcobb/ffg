@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Resurgo Spear
-date: 2021-04-30 23:00:00 +0000
+title: "\U0001F5E1 Resurgo Spear"
+date: 2021-04-30T23:00:00.000+00:00
 featured_image: "/uploads/0-uhqnvvqt4u55fahy.png"
 
 ---
@@ -19,4 +19,4 @@ In an effort to make as much of the proceeds from the book go to Resurgo directl
 
 ***
 
-### 
+###

@@ -1,0 +1,93 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.content {
+  max-width: 960px;
+  padding: 0 $_2em;
+  margin: 0 auto;
+  box-sizing: border-box;
+  height: 100%;
+  @include bp(sm) {
+    padding: 0 $_4em;
+  }
+}
+
+.content-thin {
+  max-width: 600px;
+  padding: 0 $_2em;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+section {
+  padding: $_3em 0;
+  @include bp(sm) {
+    padding: $_8em 0;
+  }
+  &.flush-bottom {
+    padding-bottom: 0;
+  }
+  &.flush-top {
+    padding-top: 0;
+  }
+  &.row-dark {
+    background: $purple-dark;
+    color: $white-base;
+  }
+}
+
+header {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  .header-text {
+    max-width: 600px;
+    margin: $_3em auto 200px;
+    @include bp(sm) {
+      margin: $_6em auto 200px;
+    }
+  }
+  &.hero {
+    background: url("images/header.svg") $purple-dark no-repeat top center;
+    background-size: contain;
+    color: $white-base;
+
+    @include bp(lg){
+      background-size: 1240px;
+    }
+    nav {
+      padding: $_3em;
+    }
+  }
+
+  nav {
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 10;
+    a {
+      font-size: 20px;
+      text-transform: uppercase;
+      text-decoration: none;
+      letter-spacing: 1px;
+      font-weight: 500;
+    }
+  }
+}
+
+.img-avatar {
+  border-radius: 50%;
+  width: $_4em;
+  height: $_4em;
+}
+
+footer {
+  border-radius: 4px;
+  padding: $_4em 0;
+  &.row-dark {
+    background: $purple-medium;
+    color: $white-base;
+  }
+}

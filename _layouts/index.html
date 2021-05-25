@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  </head>
+
+  <body>
+    <header class="hero">
+      {% include nav.html %}
+      <div class="content">
+        <div class="grid align-end gutter-xs-lg space-top-sm-xl">
+          <div class="cell-shrink">
+            <div class="artwork">
+              <div class="text">
+                <h1>{{ site.name }}</h1>
+                <p>{{ site.description }}</p>
+                <p class="author">
+                  Carlos Espinal
+                </p>
+              </div>
+              <img width="400" src="images/cover.jpg">
+            </div>
+          </div>
+          <div class="cell">
+            <div class="grid gutter-xs-lg no-response">
+              <div class="cell-shrink">
+                EPUB &amp; Kindle
+                <h2 class="text-cta">$11.99</h2>
+              </div>
+              <div class="cell">
+                PAPERBACK
+                <h2>$17.99</h2>
+              </div>
+            </div>
+
+            <h3 class="space-top-xs-sm">Grab your copy now</h3>
+            <div class="grid gutter-xs-sm space-bottom-xs-sm">
+              <div class="cell">
+                <a href="" class="btn-white btn-full">Amazon</a>
+              </div>
+              <div class="cell">
+                <a href="" class="btn-red btn-full">Apple Books</a>
+              </div>
+              <div class="cell-shrink">
+                <a href="" class="btn-purple btn-full">Direct Donation</a>
+              </div>
+            </div>
+
+            <div class="grid gutter-xs-md no-response align-middle">
+              <div class="cell-shrink">
+                <img width="200" class="img-avatar" src="images/avatar.jpg">
+              </div>
+              <div class="cell">
+                <p>
+                  <a href="#bio" class="underlined">Carlos Espinal</a>, parter @seedcamp
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="learn-more smooth-scroll" href="#main">Read more</a>
+    </header>
+
+    <section id="main" role="main" class="row-dark">
+      <div class="content">
+        <div class="posts">
+          {% for post in site.posts %}
+            <article class="post space-bottom-xs-xxl">
+              <h1>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+              </h1>
+              <h4>Posted on {{ post.date | date: "%B %e, %Y" }}</h4>
+              <div class="entry space-top-xs-md">
+                {{ post.excerpt }}
+              </div>
+              <a href="{{ site.baseurl }}{{ post.url }}" class="btn-purple btn-full-mob">
+                Read post
+              </a>
+            </article>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="content">
+        {{ content }}
+      </div>
+    </section>
+
+    {% include footer.html %}
+
+    {% include analytics.html %}
+
+   <link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,700" rel="stylesheet">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+   <script src="scripts.js"></script>
+  </body>
+</html>

@@ -21,7 +21,7 @@ Here are the links to get the book:
 
 * **Amazon Kindle & Print Editions:** [UK](https://www.amazon.co.uk/Fundraising-Field-Guide-Founders-Handbook-ebook/dp/B012CZT24U/ref=sr_1_1?dchild=1&keywords=fundraising+field+guide&qid=1621872506&sr=8-1) / [US](https://www.amazon.com/dp/1786130084/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1621872202&sr=8-3)
 * [**Apple iBooks & other platforms (eg. Kobo)**](https://books2read.com/u/m2RyD7)
-* [**Direct Donation via JustGiving **](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3)(see below for more details)
+* [Direct Donation via JustGiving ](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3)(see below for more details)
 
 ***
 
@@ -39,15 +39,13 @@ In an effort to make as much of the proceeds from the book go to Resurgo directl
 
 ***
 
-## Attend the Q&A Launch Event on Jun 1st
+## Version 1.0 — Where it Started
 
-Join us on June 1st at 2:00pm BST for a free questions and answers session as we unpack the new ideas and strategies included in this second edition of the book. 👉🏽 [**Book your tickets here!**](https://sdca.mp/Fieldguide_21) 👈🏽
+![](/uploads/book_cover_3d-554x372.jpg)
 
-Alongside me, our guests will include:
+The original version of the book was published by [Reedsy (the best online publishing platform)](https://reedsy.com/) in 2015 thanks to the help of Emmanuel Nataf, Matt Cobb, Ricardo Fayet, and Rebecca Heyman.
 
-* [Anisah Osman Britton, Founder of 23 Code Street](https://www.linkedin.com/in/anisahob/)
-* [Tom Wilson](https://www.linkedin.com/in/tomwilsonseedcamp/), Partner at Seedcamp
-* [Sia Houchangnia](https://www.linkedin.com/in/siahouchangnia/), Partner at Seedcamp
+The first version was published on a free-but-donate, effectively on the basis that you made a donation to Resurgo Spear if you enjoyed it. In that spirit, it will continue to be freely available (although some of the examples are now dated). [Click here to access version 1.0](https://www.slideshare.net/carloseduardoespinal/fundraising-field-guide) via slideshare/PDF, and the launch video of the 2015 book event [can be found here](https://youtu.be/hksUB59-YdM). If you enjoy it, please do consider [making a donation](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3) to Resurgo’s Spear Programme.
 
 ***
 
@@ -55,15 +53,6 @@ Alongside me, our guests will include:
 
 The kind sponsors and supporters for versions 1 & 2 of the book are:
 
-[**Silicon Valley Bank**](https://www.svb.com/uk) **— _We are the only bank in the UK focused solely on  
-the innovation economy._**
+[**Silicon Valley Bank**](https://www.svb.com/uk) **—** _We are the only bank in the UK focused solely on the innovation economy._
 
-[**Seedrs**](https://www.seedrs.com/) — **_We are equity crowdfunding done properly._**
-
-***
-
-## Version 1.0 — Where it Started
-
-The original version of the book was published by [Reedsy (the best online publishing platform)](https://reedsy.com/) in 2015 thanks to the help of Emmanuel Nataf, Matt Cobb, Ricardo Fayet, and Rebecca Heyman.
-
-The first version was published on a free-but-donate, effectively on the basis that you made a donation to Resurgo Spear if you enjoyed it. In that spirit, it will continue to be freely available (although some of the examples are now dated). [Click here to access version 1.0](https://www.slideshare.net/carloseduardoespinal/fundraising-field-guide) via slideshare/PDF, and the launch video of the 2015 book event [can be found here](https://youtu.be/hksUB59-YdM). If you enjoy it, please do consider [making a donation](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3) to Resurgo’s Spear Programme.
+[**Seedrs**](https://www.seedrs.com/) — _We are equity crowdfunding done properly._

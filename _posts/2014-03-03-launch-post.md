@@ -7,7 +7,7 @@ featured_image: "/ffg/uploads/ffg-widescreen-background.jpg"
 ---
 As a founder, It’s easy to get lost while trekking through the fundraising process. The dynamics of speaking to someone who has the capital you need, while discussing terms you’ve never heard of, can all be quite daunting. This book deciphers the secrets to raising capital from investors for early-stage, high-growth startups. Learn about communicating with investors, shareholders and lawyers. We will go over the materials you will need to prepare, the basics of how to understand your deal, and the mindset you will need to approach this journey successfully. The aim is to provide you, the ambitious early-stage founder with the right information to take your company to the next level.
 
-This new and updated version provides an overview of the soft and not-so-soft challenges you will need to prepare for as part of your fundraising journey, including things like reaching out to investors, dealing with rejections constructively, preparing materials and financials, understanding valuations and deal terms, how to manage the legal process and a crowdfunding chapter with statistics from crowdfunding platform [Seedrs](https://www.seedrs.com/)(who kindly helped in providing advice on how to best navigate). I sincerely hope you enjoy the book and get lots of use from it.
+This new and updated version provides an overview of the soft and not-so-soft challenges you will need to prepare for as part of your fundraising journey, including things like reaching out to investors, dealing with rejections constructively, preparing materials and financials, understanding valuations and deal terms, how to manage the legal process and a crowdfunding chapter with statistics from crowdfunding platform [Seedrs](https://www.seedrs.com/) (who kindly helped in providing advice on how to best navigate). I sincerely hope you enjoy the book and get lots of use from it.
 
 Lastly, as part of this second edition, I’d like to shine a light on the work of Resurgo’s Spear Programme (more on that below). If you’d like to support them directly, please consider doing a donation via Donate & Download below.
 
@@ -33,7 +33,7 @@ Whilst the focus of the Fundraising Field Guide Book is to help clarify the fund
 
 [The Resurgo Trust](https://resurgo.org.uk/) is the creator of the Spear Programme. The Spear Programme helps young people facing barriers getting into work or education. The Resurgo coaching team equip young people with confidence, motivation and the vital skills they need to succeed in long-term employment.
 
-I’ve witnessed, first-hand, the transformative nature of the programme and the empowerment it gives its graduates. I’ve been super impressed by how talented and driven the graduates are and even their ambition to continue on, post-programme, with their development. One particularly exciting case for me was when we partnered with [CodeFirstGirls](https://codefirstgirls.org.uk/) and [**Silicon Valley Bank **](https://www.svb.com/uk)for the Founders For Opportunity Initiative in 2018. [Check out the video of that experience here](https://www.youtube.com/watch?v=Sf-hvtMAWIA).
+I’ve witnessed, first-hand, the transformative nature of the programme and the empowerment it gives its graduates. I’ve been super impressed by how talented and driven the graduates are and even their ambition to continue on, post-programme, with their development. One particularly exciting case for me was when we partnered with [CodeFirstGirls](https://codefirstgirls.org.uk/) and [**Silicon Valley Bank**](https://www.svb.com/uk) for the Founders For Opportunity Initiative in 2018. [Check out the video of that experience here](https://www.youtube.com/watch?v=Sf-hvtMAWIA).
 
 In an effort to make as much of the proceeds from the book go to Resurgo directly as possible, feel free to donate directly to them (suggested donation of £9.99 or as much more as you’d like) [**_via this JustGiving page_**](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3)**_. After your donation, you will receive a link from which you will be able to download the book._**
 
@@ -41,7 +41,7 @@ In an effort to make as much of the proceeds from the book go to Resurgo directl
 
 ## Attend the Q&A Launch Event on Jun 1st
 
-Join us on June 1st at 2:00pm BST for a free questions and answers session as we unpack the new ideas and strategies included in this second edition of the book. 👉🏽 [**Book your tickets here! **](https://sdca.mp/Fieldguide_21)👈🏽
+Join us on June 1st at 2:00pm BST for a free questions and answers session as we unpack the new ideas and strategies included in this second edition of the book. 👉🏽 [**Book your tickets here!**](https://sdca.mp/Fieldguide_21) 👈🏽
 
 Alongside me, our guests will include:
 
@@ -64,6 +64,6 @@ the innovation economy._**
 
 ## Version 1.0 — Where it Started
 
-The original version of the book was published by [Reedsy (the best online publishing platform)](https://reedsy.com/)in 2015 thanks to the help of Emmanuel Nataf, Matt Cobb, Ricardo Fayet, and Rebecca Heyman.
+The original version of the book was published by [Reedsy (the best online publishing platform)](https://reedsy.com/) in 2015 thanks to the help of Emmanuel Nataf, Matt Cobb, Ricardo Fayet, and Rebecca Heyman.
 
-The first version was published on a free-but-donate, effectively on the basis that you made a donation to Resurgo Spear if you enjoyed it. In that spirit, it will continue to be freely available (although some of the examples are now dated). C[lick here to access version 1.0](https://www.slideshare.net/carloseduardoespinal/fundraising-field-guide) via slideshare/PDF, and the launch video of the 2015 book event [can be found here](https://youtu.be/hksUB59-YdM). If you enjoy it, please do consider [making a donation](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3) to Resurgo’s Spear Programme.
+The first version was published on a free-but-donate, effectively on the basis that you made a donation to Resurgo Spear if you enjoyed it. In that spirit, it will continue to be freely available (although some of the examples are now dated). [Click here to access version 1.0](https://www.slideshare.net/carloseduardoespinal/fundraising-field-guide) via slideshare/PDF, and the launch video of the 2015 book event [can be found here](https://youtu.be/hksUB59-YdM). If you enjoy it, please do consider [making a donation](https://www.justgiving.com/fundraising/fundraisingfieldguide-charity-3) to Resurgo’s Spear Programme.

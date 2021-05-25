@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Where it Started
-date: 2021-05-14 23:00:00 +0000
+title: "✍\U0001F3FD Where it Started - Version 1.0"
+date: 2021-05-14T23:00:00.000+00:00
 featured_image: ''
 
 ---
-### ✍🏽 Version 1.0
+### 
 
 ![](https://cdn-images-1.medium.com/max/600/0*oHvpADigMB_RpV8x.png)
 

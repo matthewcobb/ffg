@@ -2,14 +2,13 @@
 layout: default
 ---
 
-<a href="{{ site.baseurl }}/" class="btn btn-purple space-bottom-xs-lg">Back</a>
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h1 class="space-bottom-xs-sm">{{ page.title }}</h1>
   <div class="text-light">
-    Posted on {{ page.date | date: "%B %e, %Y" }}
+    <a href="{{ site.baseurl }}/">← Back to home page</a> – Posted on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% if page.featured_image %}
+  {% if page.featured_image != '''' %}
   <div class="featured-image">
     <img src="{{ page.featured_image }}" class="img-full" />
   </div>

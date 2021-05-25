@@ -2,6 +2,7 @@
 title: Launch post
 date: 2014-03-03T00:00:00.000+00:00
 layout: post
+featured_image: "/ffg/uploads/ffg-widescreen-background.jpg"
 
 ---
 As a founder, It’s easy to get lost while trekking through the fundraising process. The dynamics of speaking to someone who has the capital you need, while discussing terms you’ve never heard of, can all be quite daunting. This book deciphers the secrets to raising capital from investors for early-stage, high-growth startups. Learn about communicating with investors, shareholders and lawyers. We will go over the materials you will need to prepare, the basics of how to understand your deal, and the mindset you will need to approach this journey successfully. The aim is to provide you, the ambitious early-stage founder with the right information to take your company to the next level.

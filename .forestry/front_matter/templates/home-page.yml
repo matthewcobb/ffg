@@ -1,0 +1,16 @@
+---
+label: Home page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: excerpt
+  label: excerpt

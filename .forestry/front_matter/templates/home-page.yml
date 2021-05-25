@@ -27,11 +27,16 @@ fields:
   type: text
   config:
     required: true
-  label: amazon url
+  label: Amazon url
 - name: apple_books_url
   type: text
   config:
     required: true
   label: Apple Books url
+- name: donation_url
+  type: text
+  config:
+    required: true
+  label: Donation url
 pages:
 - index.md

@@ -8,5 +8,12 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: post
 pages:
 - _posts/2021-04-30-another-post.md

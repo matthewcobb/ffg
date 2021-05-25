@@ -6,7 +6,7 @@ description: A startup founder's guide to all things fundraising, brought to you
 excerpt: Share in your visions. Show them reality
 
 ---
-## Sponsors
+## 🙌🏼 Sponsors
 
 The kind sponsors and supporters for versions 1 & 2 of the book are:
 

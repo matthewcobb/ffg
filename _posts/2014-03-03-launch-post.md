@@ -1,6 +1,6 @@
 ---
 title: Launch post
-date: 2014-03-03 00:00:00 +0000
+date: 2014-03-03T00:00:00.000+00:00
 layout: post
 
 ---
@@ -12,3 +12,4 @@ Lastly, as part of this second edition, I’d like to shine a light on the work 
 
 Note on the Second Edition: The first version of The Fundraising Field Guide was written and published via Reedsy in 2015 and has been used by many to help navigate their fund raise. However, a lot has evolved since then, so this updated version 2.0 has been written with new content, ideas, and strategies to help early-stage tech startup founders decipher and navigate the fundraising process.
 
+![](/uploads/ffg-widescreen-background.jpg)

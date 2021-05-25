@@ -6,6 +6,9 @@ collections:
     title: Posts
     output: true
     permalink: /:collection/:title/
+  uploads:
+    title: Uploads
+    output: true
 name: Fundraising Field Guide
 description: A startup founder's handbook.
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png

@@ -13,30 +13,5 @@ fields:
 - type: text
   name: description
   label: description
-- name: epub_price
-  type: text
-  config:
-    required: true
-  label: epub price
-- name: paperback_price
-  type: text
-  config:
-    required: true
-  label: paperback price
-- name: amazon_url
-  type: text
-  config:
-    required: true
-  label: Amazon url
-- name: apple_books_url
-  type: text
-  config:
-    required: true
-  label: Apple Books url
-- name: donation_url
-  type: text
-  config:
-    required: true
-  label: Donation url
 pages:
 - index.md

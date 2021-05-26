@@ -7,7 +7,7 @@ featured_image: ''
 ---
 Join us on June 1st at 2:00pm BST for a free questions and answers session as we unpack the new ideas and strategies included in this second edition of the book.
 
- 👉🏽 [**Book your tickets here!**](https://sdca.mp/Fieldguide_21) 👈🏽
+👉🏽 [**Book your tickets here!**](https://sdca.mp/Fieldguide_21) 👈🏽
 
 Alongside me, our guests will include:
 
@@ -17,4 +17,4 @@ Alongside me, our guests will include:
 
 ***
 
-[Learn more about the book and grab your copy of the book and come armed with your questions!](https://www.fundraisingfieldguide.com/the-fundraising-field-guide-v2-0-e1e4919547f5)
+[Learn more about the book and grab your copy of the book and come armed with your questions!](https://www.fundraisingfieldguide.com/posts/launch-post/)

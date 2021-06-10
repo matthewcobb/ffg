@@ -1,6 +1,6 @@
 ---
 title: "\U0001F4DA Learn more about the book"
-date: 2021-05-25T13:00:00.000+00:00
+date: 2021-05-26 13:00:00 +0000
 layout: post
 featured_image: "/uploads/ffg-widescreen-background.jpg"
 

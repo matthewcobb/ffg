@@ -1,19 +1,19 @@
 ---
-title: "\U0001F389 Attend the Q&A Launch Event on Jun 1st"
+title: "\U0001F389 Watch the Q&A Launch Event"
 date: 2021-05-25T13:10:00.000+00:00
 layout: post
 featured_image: ''
 
 ---
-Join us on June 1st at 2:00pm BST for a free questions and answers session as we unpack the new ideas and strategies included in this second edition of the book.
+On June 1st at 2:00pm BST we held the Book's launch event where we unpacked the new ideas and strategies included in this second edition of the book.
 
-👉🏽 [**Book your tickets here!**](https://sdca.mp/Fieldguide_21) 👈🏽
-
-Alongside me, our guests will include:
+Alongside me, our guests included:
 
 * [Anisah Osman Britton, Founder of 23 Code Street](https://www.linkedin.com/in/anisahob/)
 * [Tom Wilson](https://www.linkedin.com/in/tomwilsonseedcamp/), Partner at Seedcamp
 * [Sia Houchangnia](https://www.linkedin.com/in/siahouchangnia/), Partner at Seedcamp
+
+👉🏽 [**Watch the Book Launch Video here!**](https://sdca.mp/3v2CrZP "Launch Event") 👈🏽
 
 ***
 

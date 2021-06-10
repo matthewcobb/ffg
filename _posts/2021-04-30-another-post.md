@@ -11,7 +11,7 @@ On June 1st 2021, we held the Book's launch event where we unpacked the new idea
 * [Tom Wilson](https://www.linkedin.com/in/tomwilsonseedcamp/), Partner at Seedcamp
 * [Sia Houchangnia](https://www.linkedin.com/in/siahouchangnia/), Partner at Seedcamp
 
-👉🏽 [**Watch the Book Launch Video here!**](https://sdca.mp/3v2CrZP "Launch Event") 👈🏽
+👉🏽 [**Watch the Book Launch Video here!**](https://sdca.mp/3519XoQ "Launch Event") 👈🏽
 
 ***
 

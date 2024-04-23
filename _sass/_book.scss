@@ -1,18 +1,18 @@
 .artwork {
-  background: $purple-base;
+  background: $theme-base;
   position: relative;
   max-width: 220px;
   margin: 0 auto;
   width: 100%;
   border-radius: $_2em;
   overflow: hidden;
-  border: 4px solid #FFFFFF;
+  border: 2px solid $white-base;
   box-shadow: 0 19px 34px 8px rgba(0,0,0,0.31);
   @include bp(md) {
     margin: 0;
     max-width: 300px;
-    border-radius: $_3em;
-    border: 6px solid #FFFFFF;
+    border-radius: $_2em;
+    border: 3px solid $theme-dark;
   }
 
   .text {
@@ -23,16 +23,18 @@
     box-sizing: border-box;
     padding: $_1em;
     height: 100%;
+    text-shadow: 0px 0px 4px $theme-medium;
     h1 {
       font-size: 22px;
       line-height: 30px;
       font-weight: 700;
-      margin-top: 90px;
+      margin-top: 40px;
       text-transform: uppercase;
       margin-bottom: 4px;
+
       @include bp(md) {
-        margin-top: 120px;
-        margin-bottom: 8px;
+        margin-top: 60px;
+        margin-bottom: 4px;
         font-size: 32px;
         line-height: 38px;
       }
@@ -42,17 +44,17 @@
       line-height: 16px;
       font-weight: 400;
       @include bp(md) {
-        font-size: 16px;
+        font-size: 14px;
       }
     }
     p.author {
       position: absolute;
-      bottom: $_2em;
+      top: $_2em;
       width: 100%;
       color: $white-base;
       text-transform: uppercase;
       letter-spacing: 4px;
-      font-weight: 500;
+      font-weight: 400;
     }
   }
 

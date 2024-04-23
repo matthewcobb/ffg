@@ -42,27 +42,11 @@
 @include makeFullWidth(xl);
 
 // Define button colors
-.btn-slate       {@include makebutton($slate-base, $slate-dark, $white-base);}
-.btn-slate-medium{@include makebutton($slate-medium, $slate-dark, $white-base);}
-.btn-slate-dark  {@include makebutton($slate-heavy, $slate-heavy, $white-base);}
-.btn-biege       {@include makebutton($beige-base, $beige-fade, $black-base);}
-.btn-green       {@include makebutton($green-base, $green-medium, $white-base);}
-.btn-green-faint {@include makebutton($green-faint, $green-fade, $black-base);}
-.btn-green-fade  {@include makebutton($green-fade, $green-faint, $black-base);}
-.btn-green-dark  {@include makebutton($green-medium, $green-dark, $white-base);}
-.btn-white       {@include makebutton($white-base, $grey-fade, $black-base);}
-.btn-blue-fade   {@include makebutton($blue-fade, $blue-fade-hover, $black-base);}
-.btn-blue        {@include makebutton($blue-base, $blue-dark, $white-base);}
-.btn-turq-dark   {@include makebutton($turq-dark, $turq-heavy, $white-base);}
-.btn-blue-dark   {@include makebutton($blue-dark, $blue-heavy, $white-base);}
-.btn-purple      {@include makebutton($purple-fade, $purple-base, $white-base);}
-.btn-orange      {@include makebutton($orange-base, $orange-medium, $orange-dark);}
-.btn-purple-dark {@include makebutton($purple-medium, $purple-dark, $white-base);}
-.btn-yellow      {@include makebutton($yellow-base, $yellow-medium, $black-base);}
-.btn-yellow-fade {@include makebutton(#F7E5AA, #E2CB81, $black-base);}
-.btn-red         {@include makebutton($red-base, $red-medium, $white-base);}
-.btn-grey        {@include makebutton($grey-faint, $grey-fade, $black-base);}
-.btn-grey-dark   {@include makebutton($grey-fade, $grey-fade, $black-base);}
+.btn-white       {@include makebutton($white-base, $grey-fade, $slate-dark);}
+.btn-cta      {@include makebutton($cta-base, $cta-medium, $white-base);}
+.btn-theme      {@include makebutton($theme-medium, $theme-base, $white-base);}
+.btn-theme-dark {@include makebutton($theme-medium, $theme-dark, $white-base);}
+.btn-grey        {@include makebutton($grey-faint, $grey-fade, $slate-dark);}
 
 // Button states
 .btn-full {

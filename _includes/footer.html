@@ -15,7 +15,7 @@
       </div>
       <div class="cell">
         <h1>Get the book</h1>
-        <div class="grid gutter-xs-lg no-response">
+        <!-- <div class="grid gutter-xs-lg no-response">
           <div class="cell-shrink">
             <span class="text-light">EPUB &amp; Kindle</span>
             <h2>{{ site.epub_price }}</h2>
@@ -24,9 +24,9 @@
             <span class="text-light">PAPERBACK</span>
             <h2>{{ site.paperback_price }}</h2>
           </div>
-        </div>
+        </div> -->
 
-        <h3 class="text-cta space-top-xs-xs">Available now</h3>
+        <h3 class="text-cta space-top-xs-xs">Available April 24</h3>
         <p>{{ page.description }}</p>
 
         <div class="grid gutter-xs-sm space-top-xs-md">
@@ -40,7 +40,7 @@
             <a href="{{ site.books_2_read_url }}" target="_blank" class="btn-white btn-sm btn-full">Apple Books</a>
           </div>
           <div class="cell-shrink">
-            <a href="{{ site.donation_url }}" target="_blank" class="btn-purple btn-sm btn-full">Via Donation</a>
+            <a href="{{ site.donation_url }}" target="_blank" class="btn-cta btn-sm btn-full">Via Donation</a>
           </div>
         </div>
 
@@ -60,7 +60,7 @@
   <div class="content space-top-xs-xl">
     <div class="grid justify-between no-response align-middle">
       <div class="cell">
-        Carlos Espinal - ©2021
+        Carlos Espinal - ©{{ site.time | date: "%Y" }}
       </div>
       <div class="cell-shrink grid no-response gutter-xs-lg">
         <div class="cell">
